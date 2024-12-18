@@ -1,6 +1,6 @@
 # Azure_Databricks_Finance_Project
 
-Use 2 Highest Market Cap stocks in 4 of these sectors (8 tables total)
+Use 2 Highest Market Cap stocks in 4 of these sectors (Consumer Cyclical, Financial Services, Healthcare, and Technology) (8 tables total)
 
 Date Range 1-01-2000 - 1-01-2024
 
